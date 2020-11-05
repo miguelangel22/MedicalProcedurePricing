@@ -1,0 +1,1 @@
+In this Capstone I explore medicare procedure charges throught the us states and Puerto Rico. 
