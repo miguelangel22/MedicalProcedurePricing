@@ -42,13 +42,11 @@ Reduce census data to only relevant features that represent differnce in cost of
 
 **data was left joined on medicare data by the zipcode to retain medical procedure level data**
 
-![image]
-(https://github.com/miguelangel22/MedicalProcedurePricing/blob/master/img/Most%20Expensive%20Common%20Procedures.png)
+![image](https://github.com/miguelangel22/MedicalProcedurePricing/blob/master/img/Most%20Expensive%20Common%20Procedures.png)
 
 <br/>
 
-![image]
-(https://github.com/miguelangel22/MedicalProcedurePricing/blob/master/img/Regression%20of%20Log%20Price%20Median%20Income.png)
+![image](https://github.com/miguelangel22/MedicalProcedurePricing/blob/master/img/Regression%20of%20Log%20Price%20Median%20Income.png)
 
 ## Inferential Regression analysis
 
@@ -56,8 +54,7 @@ Reduce census data to only relevant features that represent differnce in cost of
 * clusters with similar/ constant variance
 * Small outliers and Leverage points
 
-![image]
-https://github.com/miguelangel22/MedicalProcedurePricing/blob/master/img/Residual%20plot.png
+![image](https://github.com/miguelangel22/MedicalProcedurePricing/blob/master/img/Residual%20plot.png)
 
 <br/>
 
@@ -67,8 +64,7 @@ https://github.com/miguelangel22/MedicalProcedurePricing/blob/master/img/Residua
 
 * Information about the collection methods utilized by Census & Medicare can be found on my GitHub page.
 
-![image]
-https://github.com/miguelangel22/MedicalProcedurePricing/blob/master/img/QQ%20Plot.png
+![image](https://github.com/miguelangel22/MedicalProcedurePricing/blob/master/img/QQ%20Plot.png)
 
 <br/>
 
