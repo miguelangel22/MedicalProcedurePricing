@@ -70,11 +70,11 @@ Reduce census data to only relevant features that represent differnce in cost of
 
 ## Summary and Implications
 
-* My Analysis on the source of difference in medical procedure pricing is inconclusive.
+* My Analysis on the source of difference in medical procedure pricing is inconclusive. while my features were all found to statistically significant, the magnitude of their coeffiecient explained awy vary little variability in the price differences.
 
-* However there is still many insightful implications to walk away with from this presentation
+* However there is still many insightful implications to walk away with from this project, in exploring the data we were able to charectorize the diffences in many different ways. painting many different pictures in just how different the prices can be.
 
-* The fact that the signals from the model were weak it  is an implication on its own.
+* The fact that the signals from the model were weak is an implication on its own, economic indicators from region to region should explain more variability especilly in huge differences.
 
 * Further analysis and data collection on provider level medical practice difference, real economic incentives of providers and business structure of providers can provide further insight.
 
